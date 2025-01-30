@@ -16,9 +16,7 @@
 The automobile sales dataset was downloaded from Kaggle and offers a detailed look at the car market, providing insights into consumer purchasing habits and industry trends. Containing data on Various vehicle sales. 
 By looking at past sales data and current market conditions, automobile sales analysis helps businesses make good decisions.
 
-![image alt]([image_url](https://github.com/Datagirlie1/Automobile-Sales-Analysis/blob/main/Screenshot%202025-01-27%20150743.png?raw=true))
-
-
+![image alt](https://github.com/Datagirlie1/Automobile-Sales-Analysis/blob/main/Screenshot%202025-01-27%20150743.png?raw=true)
 
 
 
